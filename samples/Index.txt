@@ -1,0 +1,6 @@
+(Location number, sample number):  Location
+1X: Bane Hall auditorium, stage to center of the room
+2X: Hallway outside of Bane Auditorium, end to end
+3X: Hallway outside of Bane Auditorium, halfway to end
+4X: Elevator inside building 640
+5X: Outside in the AFIT courtyard
